@@ -1,6 +1,6 @@
 Name:		python-rq
 Version:	2.6.1
-Release:	1
+Release:	2
 Summary:	RQ is a simple, lightweight, library for creating background jobs, and
 License:	BSD-3-Clause
 Group:		Development/Python
